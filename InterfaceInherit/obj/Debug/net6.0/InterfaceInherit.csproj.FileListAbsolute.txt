@@ -13,3 +13,18 @@ C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj
 C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.pdb
 C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.genruntimeconfig.cache
 C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\ref\InterfaceInherit.dll
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.exe
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.deps.json
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.runtimeconfig.json
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.dll
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.pdb
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.csproj.AssemblyReference.cache
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.AssemblyInfoInputs.cache
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.AssemblyInfo.cs
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.csproj.CoreCompileInputs.cache
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.dll
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\refint\InterfaceInherit.dll
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.pdb
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.genruntimeconfig.cache
+C:\Программирование\GitHubCloneOpion\TestRep\InterfaceInherit\obj\Debug\net6.0\ref\InterfaceInherit.dll

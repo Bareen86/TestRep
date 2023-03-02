@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Egor\\Обучение\\C#\\Уроки C#\\InterfaceResearch\\InterfaceResearch\\InterfaceResearch.csproj",
+      "projectUniqueName": "C:\\Программирование\\GitHubCloneOpion\\TestRep\\InterfaceResearch\\InterfaceResearch.csproj",
       "projectName": "InterfaceResearch",
-      "projectPath": "C:\\Egor\\Обучение\\C#\\Уроки C#\\InterfaceResearch\\InterfaceResearch\\InterfaceResearch.csproj",
+      "projectPath": "C:\\Программирование\\GitHubCloneOpion\\TestRep\\InterfaceResearch\\InterfaceResearch.csproj",
       "packagesPath": "C:\\Users\\Boss\\.nuget\\packages\\",
-      "outputPath": "C:\\Egor\\Обучение\\C#\\Уроки C#\\InterfaceResearch\\InterfaceResearch\\obj\\",
+      "outputPath": "C:\\Программирование\\GitHubCloneOpion\\TestRep\\InterfaceResearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -27,6 +27,19 @@ class LaserGun : IWeapon
     }
 }
 
+class SuperKnife : IThrowingWeapon
+{
+    public void Fire()
+    {
+        Console.WriteLine($"{GetType().Name}: П-р-р-р-р");
+    }
+
+    public void Throw()
+    {
+        Console.WriteLine($"{GetType().Name}: Бросок!");
+    }
+}
+
 class Knife : IThrowingWeapon
 {
     public void Fire()
@@ -57,7 +70,7 @@ class Program
     static void Main(string[] args)
     {
         Player player = new Player();
-        IWeapon[] inventory = {new Gun(),new LaserGun(), new Knife()};
+        IWeapon[] inventory = {new Gun(),new LaserGun(), new Knife(), new SuperKnife()};
 
         foreach (var item in inventory)
         {
@@ -65,5 +78,7 @@ class Program
             Console.WriteLine();
         }
         player.Throw(new Knife());
+        Console.WriteLine();
+        player.Throw(new SuperKnife());
     } 
 }
