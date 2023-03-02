@@ -1,0 +1,15 @@
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\bin\Debug\net6.0\InterfaceResearch.exe
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\bin\Debug\net6.0\InterfaceResearch.deps.json
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\bin\Debug\net6.0\InterfaceResearch.runtimeconfig.json
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\bin\Debug\net6.0\InterfaceResearch.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\bin\Debug\net6.0\InterfaceResearch.pdb
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.csproj.AssemblyReference.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.AssemblyInfoInputs.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.AssemblyInfo.cs
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.csproj.CoreCompileInputs.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\refint\InterfaceResearch.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.pdb
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\InterfaceResearch.genruntimeconfig.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceResearch\obj\Debug\net6.0\ref\InterfaceResearch.dll

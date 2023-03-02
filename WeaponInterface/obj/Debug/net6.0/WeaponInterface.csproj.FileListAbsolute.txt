@@ -1,0 +1,15 @@
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\bin\Debug\net6.0\WeaponInterface.exe
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\bin\Debug\net6.0\WeaponInterface.deps.json
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\bin\Debug\net6.0\WeaponInterface.runtimeconfig.json
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\bin\Debug\net6.0\WeaponInterface.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\bin\Debug\net6.0\WeaponInterface.pdb
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.csproj.AssemblyReference.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.AssemblyInfoInputs.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.AssemblyInfo.cs
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.csproj.CoreCompileInputs.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\refint\WeaponInterface.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.pdb
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\WeaponInterface.genruntimeconfig.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\WeaponInterface\obj\Debug\net6.0\ref\WeaponInterface.dll

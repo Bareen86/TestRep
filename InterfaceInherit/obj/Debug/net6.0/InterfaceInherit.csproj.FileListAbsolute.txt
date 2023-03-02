@@ -1,0 +1,15 @@
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.exe
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.deps.json
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.runtimeconfig.json
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\bin\Debug\net6.0\InterfaceInherit.pdb
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.csproj.AssemblyReference.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.AssemblyInfoInputs.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.AssemblyInfo.cs
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.csproj.CoreCompileInputs.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\refint\InterfaceInherit.dll
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.pdb
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\InterfaceInherit.genruntimeconfig.cache
+C:\Egor\Обучение\C#\Уроки C#\InterfaceResearch\InterfaceInherit\obj\Debug\net6.0\ref\InterfaceInherit.dll
